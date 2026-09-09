@@ -8,3 +8,9 @@ Aprender a usar ramas y merges.
 2.  git add
 3.  git commit
 4.  git push 
+5.  
+## Conceptos básicos de Git
+- Repositorio
+- Commit
+- Rama
+- Merge
