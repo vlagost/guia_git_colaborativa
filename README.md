@@ -2,6 +2,7 @@
 Este repositorio es un ejercicio práctico para aprender Git en parejas. 
 ## Objetivo 
 Dominar Git para trabajo colaborativo.
+Aprender Git de forma práctica.
 
 ## Flujo de trabajo básico 
 1. Editar archivos
